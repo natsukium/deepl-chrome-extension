@@ -2,6 +2,8 @@
 
 Chromeで文章を選択した際, DeepLで翻訳するメニューを追加します.
 
+![](images/demo.png)
+
 ## インストール方法
 
 1. [リリースページ](https://github.com/natsukium/deepl-chrome-extension/releases)よりSource code (zip)をダウンロード, 展開する.
