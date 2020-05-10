@@ -1,0 +1,16 @@
+{
+    "name": "Translate with DeepL",
+    "version": "1.0",
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": true
+    },
+    "description": "Add a context menu item to translate for selected text with DeepL.",
+    "manifest_version": 2,
+    "permissions": [
+        "contextMenus",
+        "tabs"
+    ]
+}
